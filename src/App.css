@@ -24,6 +24,19 @@
   color: white;
 }
 
+/* App.css or a dedicated CSS file for navigation styles */
+.navbar ul {
+  list-style: none; /* Remove bullet points */
+  padding: 0; /* Remove any default padding */
+  margin: 0; /* Remove any default margin */
+}
+
+.navbar li {
+  display: inline; /* Display list items inline to create a horizontal navigation */
+  margin-right: 20px; /* Add some spacing between navigation items if needed */
+}
+
+
 .App-link {
   color: #61dafb;
 }

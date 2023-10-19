@@ -1,0 +1,19 @@
+/* Hero.css */
+.hero {
+  /* Set your background image */
+    background-size: cover;
+    background-position: center;
+    text-align: center;
+    color: #fff; /* Text color */
+    padding: 100px 0;
+  }
+  
+  .hero h1 {
+    font-size: 100px;
+    margin: 0;
+  }
+  
+  .hero p {
+    font-size: 25px;
+  }
+  
