@@ -1,0 +1,25 @@
+/* Bees.css */
+.bee-image {
+    float: left; /* Float the image to the left */
+    margin-right: 20px; /* Add some margin to separate the image from text */
+    max-width: 50%; /* Adjust the max width to control the image size */
+  }
+  
+  .content {
+    clear: both; /* Clear the float to prevent content from wrapping around the image */
+  }
+
+  .bees h2 {
+    font-style: sans-serif;
+   margin-bottom: 50px;
+    /* Add any other styles you want for the heading */
+  }
+  
+  /* Additional styling for the paragraph (optional) */
+  .content p {
+    font-size: 1.2rem;
+    line-height: 1.5;
+    text-align: left;
+    /* Add any other styles you want for the paragraph */
+  }
+  

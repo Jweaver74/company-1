@@ -24,6 +24,18 @@
   color: white;
 }
 
+.navBar-links {
+ margin:0;
+ padding:0;
+ list-style: none;
+}
+
+.navBar-links li{
+  margin-bottom: 0;
+}
+
+
+
 /* App.css or a dedicated CSS file for navigation styles */
 .navbar ul {
   list-style: none; /* Remove bullet points */

@@ -11,7 +11,7 @@ function App() {
     <div className="App">
       <nav className="navbar">
       <Hero />
-        <ul>
+        <ul class="navBar-links">
           <li><a href="#about">About Us</a></li>
           <li><a href="#bees-life">A Bee's Life</a></li>
           <li><a href="#contact-us">Contact Us</a></li>
