@@ -32,9 +32,21 @@
 
 .navBar-links li{
   margin-bottom: 0;
+  
 }
 
+/* Style the anchor links (change the colors as needed) */
+.navBar-links li a {
+  color: black; /* Change the text color to your desired color */
+  text-decoration: none; /* Remove underline */
+  transition: color 0.2s; 
+  text-decoration: underline;/* Add a color transition effect */
+}
 
+/* Change the link color on hover */
+.navBar-links li a:hover {
+  color: red; /* Change the text color on hover to your desired color */
+}
 
 /* App.css or a dedicated CSS file for navigation styles */
 .navbar ul {
@@ -61,3 +73,12 @@
     transform: rotate(360deg);
   }
 }
+/* App.css or a dedicated CSS file for footer styles */
+footer {
+  background-color: #333; /* Set a background color for the footer */
+  color: #fff; /* Text color for the footer */
+  padding: 10px; /* Add padding for spacing */
+  text-align: center; /* Center align the content */
+  margin-top: 20em;
+}
+

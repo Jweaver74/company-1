@@ -1,0 +1,16 @@
+/* ContactUs.css */
+.contact-us {
+    text-align: center;
+   
+    padding: 20px;
+  }
+  
+  .contact-us h2 {
+    font-size: 24px;
+  }
+  
+  .contact-us p {
+    font-size: 18px;
+    margin: 10px 0;
+  }
+  
