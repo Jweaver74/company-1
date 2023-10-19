@@ -1,0 +1,15 @@
+/* AboutUs.css */
+.about-us {
+    text-align: center;
+    padding: 40px;
+  }
+  
+  .about-us h2 {
+    font-size: 2rem;
+  }
+  
+  .about-us p {
+    font-size: 1.2rem;
+    margin-top: 20px;
+  }
+  
