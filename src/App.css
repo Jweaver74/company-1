@@ -35,6 +35,22 @@
   
 }
 
+.home-icon {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  background: transparent;
+  border: none;
+  cursor: pointer;
+}
+
+.home-icon img {
+  width: 50px; /* Adjust the width to your desired size */
+  height: 50px; /* Adjust the height to your desired size */
+}
+
+
+
 /* Style the anchor links (change the colors as needed) */
 .navBar-links li a {
   color: black; /* Change the text color to your desired color */
