@@ -1,15 +1,14 @@
-/* ContactUs.css */
-.contact-us {
+.honey {
     text-align: center;
    
     padding: 20px;
   }
   
-  .contact-us h2 {
+  .honey h2 {
     font-size: 5em;
   }
   
-  .contact-us p {
+  .honey p {
     font-size: 18px;
     margin: 10px 0;
   }

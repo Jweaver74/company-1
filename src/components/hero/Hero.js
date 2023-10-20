@@ -6,7 +6,7 @@ const Hero = () => {
   return (
     <div className="hero">
       <h1>Welcome to Hetherington Honey</h1>
-      <p>Your Source for Premium Honey Products</p>
+      <p>Your Source for Premium Honey</p>
     </div>
   );
 }

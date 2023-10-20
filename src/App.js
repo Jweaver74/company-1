@@ -4,6 +4,7 @@ import Hero from "./components/hero/Hero";
 import About from "./components/about/About";
 import Bees from "./components/bees life/Bees";
 import Contact from "./components/contact/ContactUs";
+import Honey from "./components/honey/Honey";
 import HomeIcon from "./components/icons/home.png"
 
 function App() {
@@ -28,6 +29,11 @@ function App() {
               A Bee's Life
             </a>
           </li>
+          <li> 
+            <a href="#honey" class="nav-link">
+              Our Honey
+            </a>
+          </li>
           <li>
             <a href="#contact-us" class="nav-link">
               Contact Us
@@ -44,7 +50,12 @@ function App() {
         <Bees />
         {/* Your A Bee's Life content goes here */}
       </section>
+      <section id="honey">
+        <Honey />
+        {/* Your Our Honey content goes here */}
+      </section>
 
+      
       <footer id="contact-us">
         <Contact />
         {/* Your Contact Us content goes here */}
