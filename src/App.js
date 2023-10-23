@@ -1,6 +1,6 @@
 import React from "react";
 import "./App.css";
-import Hero from "./components/hero/Hero";
+import Header from "./components/header/Header";
 import About from "./components/about/About";
 import Bees from "./components/bees life/Bees";
 import Contact from "./components/contact/ContactUs";
@@ -17,7 +17,7 @@ function App() {
   return (
     <div className="App">
       <nav className="navbar">
-        <Hero />
+        <Header />
         <ul class="navBar-links">
           <li>
             <a href="#about" class="nav-link">

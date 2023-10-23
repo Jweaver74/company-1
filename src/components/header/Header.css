@@ -1,0 +1,19 @@
+.header {
+    /* Set your background image */
+      background-size: cover;
+      background-position: center;
+      text-align: center;
+      color: black; /* Text color */
+      padding: 50px 0;
+      
+    }
+    
+    .header h1 {
+      font-size: 7em;
+      margin: 0;
+    }
+    
+    .header p {
+      font-size: 25px;
+      margin-bottom: 0
+    }
