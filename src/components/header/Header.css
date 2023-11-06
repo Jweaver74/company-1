@@ -1,5 +1,6 @@
 .header {
     /* Set your background image */
+    position: relative;
       background-size: cover;
       background-position: center;
       text-align: center;
